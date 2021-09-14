@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+}
+nav{
+    display: block;
+    padding: 1rem;
+    margin: 1px;
+}
+#base,#height{
+    display: block;
+    padding: .5rem;
+    text-align: center;
+  margin: 10px 475px;
+}
+#areaBtn{
+text-align: center;
+font-size: larger;
+padding: .2rem;
+}
+#output{
+font-size: xx-large;
+
+}
