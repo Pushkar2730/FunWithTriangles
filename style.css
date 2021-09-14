@@ -1,0 +1,27 @@
+.angle{
+    display: block;
+padding: .5rem;
+text-align: center;
+margin: 20px auto;
+}
+
+
+#triangle{
+cursor: pointer;
+padding: .2rem;
+margin: 10px auto;
+}
+
+#output{
+    height: 100px;
+    text-align: center;
+    margin: 20px auto;
+    width: 50%;
+    border: .1rem solid black;
+    font-size: large;
+    }
+body{
+    margin: 50px auto;
+    text-align: center;
+    font-size: larger;
+}
