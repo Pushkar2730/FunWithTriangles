@@ -1,27 +1,81 @@
 .angle{
+    /* input class */
     display: block;
 padding: .5rem;
 text-align: center;
 margin: 20px auto;
 }
+body{
+    background-image: url(https://www.wallpaperup.com/uploads/wallpapers/2015/07/18/754673/e6ef019869052afa7114cc10c05df004-700.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
 
+nav{
+width: 100%;
+height: 50px;
 
+    display: block;
+}
 #triangle{
 cursor: pointer;
 padding: .2rem;
 margin: 10px auto;
 }
+.inline-list{
+
+    list-style: none;
+    display: inline;
+    
+    padding: 0rem .6rem 2rem 1rem;
+    float:inherit;
+}
+label{
+padding: 2rem;
+    margin-top: 100px;
+}
+.side-input{
+    height: 30px;
+    margin: 20px auto;
+    display: block;
+    
+    text-align: center;
+   
+}
+
 
 #output{
     height: 100px;
     text-align: center;
     margin: 20px auto;
     width: 50%;
+    padding-top: 3rem;
     border: .1rem solid black;
     font-size: large;
     }
 body{
-    margin: 50px auto;
+ 
     text-align: center;
     font-size: larger;
+}
+#out{
+    padding: 1rem;
+    margin: 20px;
+    font-size: larger;
+    font-weight: bolder;
+}
+#hypo-btn{
+    padding: .5rem;
+    border-radius: .3rem;
+
+}
+#motionPoster{
+    background-image: url(https://i.pinimg.com/originals/fe/08/01/fe0801f154318913625012007362f220.gif);
+    background-position: center;
+    width: 600px;
+    text-align: center;
+    margin: 50px auto;
+    
+    height: 500px; 
 }
