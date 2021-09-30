@@ -1,5 +1,5 @@
-const Base=document.querySelector("#base");
-const height=document.querySelector("#height");
+const Base=document.querySelector("#bottom");
+const height=document.querySelector("#high");
 const AreaBtn=document.querySelector("#areaBtn");
 const output=document.querySelector("#output");
 
